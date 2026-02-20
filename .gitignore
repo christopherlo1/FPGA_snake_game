@@ -1,0 +1,21 @@
+# --- Vivado Project Folders ---
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+*.ip_user_files/
+*.gen/
+
+# --- Temporary/Log Files ---
+*.log
+*.jou
+*.str
+vivado*.backup.tcl
+usage_statistics_webtalk.xml
+usage_statistics_webtalk.html
+.Xil/
+
+# --- Simulation artifacts ---
+xsim.dir/
+*.pb
+*.jou
